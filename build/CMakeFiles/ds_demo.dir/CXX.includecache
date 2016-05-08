@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/data_structure.h
+iostream
+-
+list
+-
+
+/home/ywseo/work/sandbox/lib/Data-Structure/src/data_structure.cpp
+data_structure.h
+/home/ywseo/work/sandbox/lib/Data-Structure/src/data_structure.h
+
+/home/ywseo/work/sandbox/lib/Data-Structure/src/main.cpp
+data_structure.h
+/home/ywseo/work/sandbox/lib/Data-Structure/src/data_structure.h
+

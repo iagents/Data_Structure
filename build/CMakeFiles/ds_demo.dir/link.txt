@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ds_demo.dir/src/main.cpp.o CMakeFiles/ds_demo.dir/src/data_structure.cpp.o  -o ds_demo -rdynamic 
